@@ -1,4 +1,4 @@
-## Hi there, I'm Abhilash:
+## Hi there, I'm Abhilash.
 🔭 I’m currently working on AI-driven applications, full-stack development, and exploring modern UI/UX design concepts<br><br>👯 I’m looking to collaborate on innovative software projects, open-source AI tools, or creative multimedia endeavors<br><br>🤝 I’m looking for help with advanced system architecture documentation and mastering complex data structures and algorithms<br><br>🌱 I’m currently learning cloud computing, cybersecurity, and expanding my core computer science fundamentals<br><br>💬 Ask me about software development, integrating AI into platforms, or recommendations for top-tier action and fantasy series<br><br>⚡ Fun fact: I balance my technical computer science studies with creative video editing and hunting down the best gaming deals!
 
 
