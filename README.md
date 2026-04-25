@@ -13,7 +13,7 @@
 ### 👨‍💻 About Me
 
 - 🔭 **Currently focused on:** AI-driven applications, full-stack development, and exploring modern UI/UX design concepts.
-- 🌱 **Learning:** Cloud computing, cybersecurity, and expanding my core computer science fundamentals.
+- 🌱 **Learning:** Cloud computing, AI/ML, and expanding my core computer science fundamentals.
 - 🤝 **Seeking collaboration on:** Innovative software projects, open-source AI tools, and creative multimedia endeavors.
 - 💬 **Ask me about:** Software development, integrating AI into platforms, or top-tier action and fantasy anime series.
 - ⚡ **Fun fact:** I balance my technical computer science studies with creative video editing and hunting down the best gaming deals!
