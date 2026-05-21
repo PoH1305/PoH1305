@@ -1,63 +1,100 @@
 <div align="center">
 
-# Hi there, I'm Abhilash 👋
+```
+ █████╗ ██████╗ ██╗  ██╗██╗██╗      █████╗ ███████╗██╗  ██╗
+██╔══██╗██╔══██╗██║  ██║██║██║     ██╔══██╗██╔════╝██║  ██║
+███████║██████╔╝███████║██║██║     ███████║███████╗███████║
+██╔══██║██╔══██╗██╔══██║██║██║     ██╔══██║╚════██║██╔══██║
+██║  ██║██████╔╝██║  ██║██║███████╗██║  ██║███████║██║  ██║
+╚═╝  ╚═╝╚═════╝ ╚═╝  ╚═╝╚═╝╚══════╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝
+```
 
-**AI-Driven Applications | Full-Stack Development | Modern UI/UX Enthusiast**
+### Building things that think. ✦ Hyderabad, India.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/MEKALA%20ABHILASH) 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhilashmekala628@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://yourportfolio.com)
 
-<br>
-</div>
-
-### 👨‍💻 About Me
-
-- 🔭 **Currently focused on:** AI-driven applications, full-stack development, and exploring modern UI/UX design concepts.
-- 🌱 **Learning:** Cloud computing, AI/ML, and expanding my core computer science fundamentals.
-- 🤝 **Seeking collaboration on:** Innovative software projects, open-source AI tools, and creative multimedia endeavors.
-- 💬 **Ask me about:** Software development, integrating AI into platforms, or top-tier action and fantasy anime series.
-- ⚡ **Fun fact:** I balance my technical computer science studies with creative video editing and hunting down the best gaming deals!
-
-<br>
-
-### 🛠️ Tech Stack
-
-<div align="left">
-  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn" />
-</div>
-
-<br>
-
-### 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PoH1305&theme=dark&hide_border=true&include_all_commits=true&count_private=false&bg_color=0D1117" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PoH1305&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact&bg_color=0D1117" height="165" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=PoH1305&theme=dark&hide_border=true&background=0D1117" alt="GitHub Streak" />
-</div>
-
-<br>
-
-### 🏆 Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=PoH1305&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
 </div>
 
 ---
 
+## `whoami`
+
+```yaml
+name       : Abhilash
+role       : Full-Stack Developer & AI Enthusiast
+focus      : AI-Driven Applications · Full-Stack Development · UI/UX
+learning   : Cloud Computing · AI/ML · Core CS Fundamentals
+open_to    : Internships · Collaborations · Open Source
+fun_fact   : "I debug code by day and hunt gaming deals by night."
+```
+
+---
+
+## `~/tech-stack`
+
+**Languages**
+
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+**Frontend**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+**Data & ML**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+
+---
+
+## `~/projects`
+
+> ⚡ *Pinned projects coming soon — building something worth showing.*
+
+| Project | Description | Stack |
+|---------|-------------|-------|
+| 🔒 `[Coming Soon]` | AI-integrated web app | Python · JS · ML |
+| 🔒 `[Coming Soon]` | Full-stack project | React · Node · MySQL |
+| 🔒 `[Coming Soon]` | Data pipeline | Pandas · NumPy · Scikit |
+
+---
+
+## `~/github-stats`
+
 <div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=PoH1305&icon=0&color=0" alt="Profile Views" />
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=PoH1305&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PoH1305&layout=compact&theme=tokyonight&hide_border=true" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=PoH1305&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## `~/currently`
+
+```
+▸ 🎯 Preparing for campus placements
+▸ 🧠 Deep-diving into DSA & System Design
+▸ 🌐 Building AI-powered web applications
+▸ 📖 Exploring Cloud (AWS/GCP)
+```
+
+---
+
+<div align="center">
+
+*"The best error message is the one that never shows up."*
+
+![Visitor Count](https://komarev.com/ghpvc/?username=PoH1305&color=blueviolet&style=flat-square&label=Profile+Views)
+
 </div>
